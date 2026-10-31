@@ -1,0 +1,21 @@
+Validación ENAHO 2024 (código INEI 966)
+
+Hogares en la sumaria:               33,691
+Filas en el módulo 200:             117,721
+Residentes habituales:              108,664
+Población expandida (facpob07):      34,147,768
+
+Pobreza, sumaria (factor07 × mieperho):    27.58 %   (INEI: 27.6 %)
+Pobreza extrema, sumaria:                   5.50 %   (INEI: 5.5 %)
+Pobreza, base de personas (facpob07):      27.53 %
+Pobreza extrema, base de personas:          5.50 %
+
+[OK] Llaves de hogar únicas en la sumaria
+[OK] Llaves de persona únicas
+[OK] La unión no perdió ni duplicó filas
+[OK] Residentes habituales = 108,664
+[OK] Pobreza (sumaria) a menos de 0.1 pts de 27.6 %
+[OK] Pobreza extrema (sumaria) a menos de 0.1 pts de 5.5 %
+[OK] 25 departamentos con dato
+
+Resultado: VALIDADA
